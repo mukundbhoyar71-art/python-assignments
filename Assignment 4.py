@@ -8,7 +8,7 @@
 "Create objects of the class and use the functions"
 "to perform these operations."
 #solution
-'''class Student:
+class Student:
     def __init__(self):
         self.name = ""
         self.roll_no = 0
